@@ -1,0 +1,193 @@
+Year,Name,Surname,Problem1,Problem2,Problem3,Problem4,Problem5,Problem6,Total,Rank,Award
+2010,Nursultan,Khadjimuratov,7,7,1,7,3,7,32,11,Gold medal
+2004,Kuat,Yessenov,7,7,2,7,7,7,37,12,Gold medal
+2010,Denis,Ovchinnikov,7,7,5,7,0,5,31,13,Gold medal
+2015,Akhan,Ismailov,7,6,2,7,7,0,29,19,Gold medal
+2001,Baurzhan,Bektemirov,7,7,2,7,7,3,33,21,Gold medal
+2001,Aman,Zhumekeshov,7,7,0,7,7,5,33,21,Gold medal
+2017,Amir,Mokhammed-Ali,7,4,0,7,7,1,26,30,Gold medal
+2010,Kanat,Satylkhanov,7,7,7,7,0,0,28,27,Gold medal
+2016,Amir,Mokhammed-Ali,7,7,0,7,2,7,30,35,Gold medal
+2001,Alibek,Aldangarov,7,7,2,7,7,2,32,28,Gold medal
+2003,Kuat,Yessenov,7,7,0,7,7,1,29,29,Gold medal
+2008,Yegor,Klochkov,7,7,4,7,7,0,32,35,Gold medal
+2001,Igor,Ganichev,7,3,0,7,7,7,31,33,Gold medal
+2014,Akhan,Ismailov,7,7,1,7,7,0,29,40,Gold medal
+2021,Aibek,Myrzatay,7,7,1,7,0,2,24,48,Gold medal
+2004,Andrey,Kim,7,5,4,7,4,5,32,38,Gold medal
+2017,Alikhan,Kudaibergenov,7,3,0,7,7,0,24,49,Silver medal
+2020,Tair,Satubaldin,7,7,7,7,1,1,30,50,Silver medal
+2020,Tamirlan,Bektemissov,7,7,2,7,7,0,30,50,Silver medal
+2002,Baurzhan,Bektemirov,7,7,1,7,6,0,28,40,Silver medal
+2002,Igor,Ganichev,6,7,1,7,7,0,28,40,Silver medal
+2001,Sergey,Umentayev,7,7,1,7,7,0,29,40,Silver medal
+2023,Miron,Yurkevich,7,7,7,7,3,0,31,55,Silver medal
+2024,Margulan,Sharel,7,7,0,7,5,2,28,59,Silver medal
+2024,Amirlan,Amanzholov,7,7,0,7,7,0,28,59,Silver medal
+2021,Fetullakh,Sam,7,0,1,7,7,0,22,63,Silver medal
+2018,Aruzhan,Amanbayeva,7,7,0,7,7,1,29,61,Silver medal
+2022,Fetullakh,Sam,7,7,2,7,7,2,32,61,Silver medal
+2019,Danat,Duisenbekov,7,7,0,7,7,0,28,65,Silver medal
+2019,Shyngys,Bilyalov,7,6,0,7,7,1,28,65,Silver medal
+2003,Baurzhan,Bektemirov,7,3,0,7,6,2,25,50,Silver medal
+2005,Andrey,Kim,7,5,1,7,7,3,30,57,Silver medal
+2016,Temirkhan,Zimanov,7,7,0,7,4,0,25,78,Silver medal
+2002,Kuat,Yessenov,7,7,1,4,7,0,26,64,Silver medal
+2017,Temirkhan,Zimanov,7,3,0,7,0,4,21,82,Silver medal
+2020,Nurtas,Shyntas,7,7,0,7,7,0,28,86,Silver medal
+2022,Tair,Satubaldin,7,7,1,7,7,1,30,84,Silver medal
+2010,Rauan,Rakhmet,7,7,0,7,1,0,22,76,Silver medal
+2018,Alexey,Tsekhovoy,7,7,0,7,7,0,28,87,Silver medal
+2018,Alikhan,Kudaibergenov,7,7,0,7,7,0,28,87,Silver medal
+2009,Kanat,Satylkhanov,7,7,1,6,7,0,28,83,Silver medal
+2003,Baurzhan,Urgunshbayev,7,7,0,7,1,0,22,69,Silver medal
+2023,Raiymbek,Baishuak,7,7,5,7,2,0,28,104,Silver medal
+2021,Danat,Duisenbekov,7,0,0,7,7,0,21,105,Silver medal
+2005,Daniyar,Kelbetov,3,7,0,7,7,2,26,93,Silver medal
+2022,Miron,Yurkevich,7,7,1,7,7,0,29,112,Silver medal
+2000,Igor,Ganichev,7,7,1,7,0,0,22,89,Silver medal
+2009,Yegor,Klochkov,7,6,1,5,7,0,26,110,Silver medal
+1993,Alexander,Averjanov,7,0,4,3,4,3,21,83,Silver medal
+2011,Medet,Zhanbulatuly,7,0,1,6,7,1,22,113,Silver medal
+2010,Medet,Zhanbulatuly,7,7,0,7,0,0,21,106,Silver medal
+2015,Olzhas,Kadyrakunov,7,2,0,7,3,0,19,118,Silver medal
+2012,Yerniyaz,Nurgabylov,7,7,0,7,0,0,21,112,Silver medal
+2007,Igor,Stassiy,3,7,2,7,2,0,21,110,Silver medal
+2008,Nursultan,Khadjimuratov,7,5,0,4,0,7,23,116,Silver medal
+2018,Shyngys,Bilyalov,7,2,0,7,7,2,25,131,Silver medal
+2014,Sergazy,Kalmurzayev,7,2,0,7,6,0,22,124,Silver medal
+2009,Nursultan,Khadjimuratov,7,7,1,7,2,0,24,130,Silver medal
+2021,Tair,Satubaldin,6,6,1,7,0,0,20,143,Silver medal
+2006,Nurbol,Duisenbayev,7,1,1,7,3,0,19,117,Silver medal
+2008,Tussupbekov,Yerkin,7,7,0,7,1,0,22,127,Silver medal
+2024,Miron,Yurkevich,7,7,0,7,0,1,22,147,Silver medal
+2013,Alibek,Sailanbayev,7,3,0,7,7,0,24,131,Silver medal
+2017,Aruzhan,Amanbayeva,7,3,0,7,1,0,18,139,Bronze medal
+2023,Zhan,Dautov,7,7,1,7,2,0,24,145,Bronze medal
+2023,Batyrkhan ,Sakenov,7,7,1,7,2,0,24,145,Bronze medal
+2023,Vladimir,Rogovskiy,7,7,0,7,3,0,24,145,Bronze medal
+2019,Nurtas,Shyntas,7,7,0,7,2,0,23,147,Bronze medal
+2019,Alibek,Orazalin,7,6,1,7,2,0,23,147,Bronze medal
+1999,Alexey,Doktorovich,6,7,1,1,2,1,18,109,Bronze medal
+1993,Zharas,Bajdelʻdinov,6,0,1,7,5,0,19,102,Bronze medal
+1998,Mikhail,Shakhmatov,7,0,2,7,7,0,23,104,Bronze medal
+2022,Adilet,Zauytkhan,7,7,0,7,7,0,28,146,Bronze medal
+2022,Adilet,Abu,7,7,0,7,7,0,28,146,Bronze medal
+2004,Damir,Yeliusizov,7,4,0,7,4,1,23,124,Bronze medal
+2011,Rauan,Rakhmet,7,0,0,7,7,0,21,145,Bronze medal
+2009,Tolebi,Sailauov,7,7,1,5,3,0,23,148,Bronze medal
+2020,Yuriy,Ten,7,2,0,7,7,0,23,162,Bronze medal
+2021,Rakhim,Baimurzin,7,0,1,7,2,0,17,164,Bronze medal
+1993,Gani,Nazirov,1,0,5,2,7,3,18,111,Bronze medal
+2019,Kassym,Mukhanbetiyar,6,7,0,7,2,0,22,168,Bronze medal
+2019,Alikhan,Zimanov,7,6,0,7,2,0,22,168,Bronze medal
+2012,Sergazy,Kalmurzayev,7,7,0,4,1,0,19,151,Bronze medal
+2015,Alen,Abdrakhmanov,7,0,0,7,3,0,17,160,Bronze medal
+2007,Alen,Bayev,4,6,0,7,1,0,18,145,Bronze medal
+2007,Asset,Daliyev,3,1,0,7,7,0,18,145,Bronze medal
+2005,Kairat,Zhubayev,1,7,0,7,2,2,19,144,Bronze medal
+2016,Temirlan,Amangeldin,7,2,0,7,4,0,20,169,Bronze medal
+2013,Sergazy,Kalmurzayev,4,2,3,7,6,0,22,151,Bronze medal
+2013,Yerniyaz,Nurgabylov,1,7,0,7,7,0,22,151,Bronze medal
+2014,Alisher,Tortay,7,5,0,7,2,0,21,163,Bronze medal
+2014,Daniyar,Kamal,7,0,0,7,7,0,21,163,Bronze medal
+2023,Margulan,Sharel,7,7,3,6,0,0,23,183,Bronze medal
+2008,Sanzhar,Orazbayev,7,5,1,7,0,0,20,159,Bronze medal
+2012,Akezhan,Amankeldi,7,7,0,4,0,0,18,163,Bronze medal
+2000,Ulan,Mukashev,7,7,0,0,0,3,17,138,Bronze medal
+2006,Andrey,Kim,7,1,1,7,1,0,17,150,Bronze medal
+2006,Daulet,Zhanguzin,7,0,0,7,3,0,17,150,Bronze medal
+2003,Meiram,Murzabulatov,2,3,0,7,4,0,16,138,Bronze medal
+2002,Aman,Zhumekeshov,7,7,1,4,1,0,20,145,Bronze medal
+1999,Rustam,Timirbekov,6,1,3,3,1,1,15,138,Bronze medal
+2022,Yuriy,Ten,7,6,0,7,6,1,27,187,Bronze medal
+2000,Zhandos,Yessenbayev,7,7,0,1,1,0,16,149,Bronze medal
+2018,Rakhman,Asmatullayev,7,3,0,7,3,1,21,193,Bronze medal
+2004,Daniyar,Kelbetov,7,2,2,7,3,0,21,159,Bronze medal
+2007,Asset,Mussagaliyev,7,0,0,7,2,0,16,171,Bronze medal
+2011,Akezhan,Amankeldi,7,0,0,7,5,0,19,186,Bronze medal
+2012,Alibek,Sailanbayev,7,1,0,7,2,0,17,182,Bronze medal
+2020,Danat,Duisenbekov,7,0,0,7,7,0,21,206,Bronze medal
+2005,Sossin,Viktor,7,1,0,7,2,0,17,175,Bronze medal
+2013,Alisher,Tortay,7,2,3,7,1,0,20,180,Bronze medal
+2013,Batyrkhan,Orynkul,4,2,0,7,7,0,20,180,Bronze medal
+2018,Alikhan,Zimanov,7,3,0,7,2,1,20,204,Bronze medal
+1998,Renat,Bekbolatov,3,7,2,0,7,0,19,145,Bronze medal
+1999,Shirali,Kadyrov,7,2,0,1,3,1,14,159,Bronze medal
+2024,Zhan,Dautov,5,7,0,7,0,1,20,216,Bronze medal
+2024,Vladimir,Rogovskiy,7,7,0,5,1,0,20,216,Bronze medal
+2003,Dauren,Auzhani,2,5,0,7,1,0,15,163,Bronze medal
+2014,Yerzhan,Imanmalik,7,6,0,7,0,0,20,200,Bronze medal
+1993,Aibatyr,Zhumagulov,0,4,0,4,6,0,14,151,Bronze medal
+2009,Sanzhar,Orazbayev,7,3,0,5,3,0,18,208,Bronze medal
+2016,Aruzhan,Amanbayeva,7,2,0,6,2,0,17,224,Bronze medal
+2012,Saken,Dushayev,7,7,0,2,0,0,16,204,Bronze medal
+2015,Alexandr,Shakiyev,4,2,1,7,1,0,15,217,Bronze medal
+2006,Merlan,Nagidulin,7,1,0,7,0,0,15,189,Bronze medal
+2006,Asset,Mussagaliyev,7,1,0,7,0,0,15,189,Bronze medal
+2000,Anuar,Kaumbayev,7,5,0,0,0,2,14,176,Bronze medal
+2000,Rustem,Takhanov,4,5,0,2,3,0,14,176,Bronze medal
+1997,Mikhail,Shakhmatov,1,7,3,6,1,0,18,177,Bronze medal
+2009,Birzhan,Muldagaliyev,7,7,0,3,0,0,17,220,Bronze medal
+1999,Zhandos,Yessenbayev,6,1,1,3,0,2,13,178,Bronze medal
+2008,Asset,Daliyev,7,1,1,7,0,0,16,212,Bronze medal
+2002,Meiram,Murzabulatov,0,7,0,2,7,0,16,191,Bronze medal
+2002,Baurzhan,Urgunshbayev,2,7,0,0,6,0,15,201,Bronze medal
+2016,Daniyar,Abesbek,7,2,0,7,0,0,16,253,Bronze medal
+2021,Assylbek,Olzhabayev,7,0,1,2,3,0,13,268,Bronze medal
+2008,Yeskendir,Kassenov,7,1,0,7,0,0,15,238,Bronze medal
+2011,Andrey,Drobakh,7,0,5,2,1,1,16,253,Bronze medal
+2005,Nurbol,Duisenbayev,1,1,0,7,3,0,12,243,Bronze medal
+2014,Kuandyk,Altynkhanov,7,0,0,7,2,0,16,267,Bronze medal
+1992,Yevgeni,Yakovlev,7,1,0,0,0,7,15,,Bronze medal
+1992,Almas,Rymov,1,1,0,6,0,7,15,,Bronze medal
+1992,Gani,Nazirov,7,1,0,3,0,5,16,,Bronze medal
+1992,Azamat,Sarsembaev,1,2,0,5,6,2,16,,Bronze medal
+2003,Anton,Vassilyev,1,2,0,7,1,1,12,211,Honourable mention
+2015,Temirlan,Amangeldin,4,1,0,7,1,0,13,283,Honourable mention
+1998,Almas,Sakhavyev,3,0,2,7,1,0,13,206,Honourable mention
+2011,Saken,Dushayev,7,0,0,1,7,0,15,282,Honourable mention
+1997,Renat,Bekbolatov,0,7,2,5,0,0,14,232,Honourable mention
+1997,Yerlan,Jumabayev,1,7,0,4,2,0,14,232,Honourable mention
+2010,Azamat,Duysenbaev,7,0,0,7,0,0,14,266,Honourable mention
+2001,Ulan,Usserkulov,7,0,0,1,2,0,10,243,Honourable mention
+2020,Fetullakh,Sam,7,0,0,7,0,0,14,317,Honourable mention
+2016,Raiymbek,Akshulakov,7,0,0,7,0,0,14,312,Honourable mention
+2015,Daniyar,Abesbek,1,3,0,7,1,0,12,307,Honourable mention
+1998,Talap,Akashev,7,0,2,2,0,0,11,226,Honourable mention
+1999,Ulan,Mukashev,7,1,0,2,0,0,10,248,Honourable mention
+1995,Nurgali,Arystanov,7,0,1,0,7,0,15,230,Honourable mention
+2007,Arman,Diyarov,3,0,0,7,1,0,11,293,Honourable mention
+2007,Adilzhan,Ismailov,3,0,0,7,1,0,11,293,Honourable mention
+2011,Temirulan,Mussayev,7,0,0,2,2,1,12,320,Honourable mention
+2005,Asan,Zholdassov,0,0,0,1,7,0,8,296,Honourable mention
+1997,Talap,Akashev,0,7,0,4,0,0,11,272,Honourable mention
+1998,Rustam,Timirbekov,0,2,0,7,0,0,9,253,Honourable mention
+2006,Aizana,Turmukhametova,7,1,0,4,0,0,12,308,Honourable mention
+2000,Alibek,Aldangarov,7,1,0,0,0,0,8,287,Honourable mention
+1995,Almaz,Kungozhin,7,0,1,2,2,1,13,263,Honourable mention
+1995,Mikhail,Okhin,7,0,0,3,3,0,13,263,Honourable mention
+2012,Temirlan,Izmailov,7,1,0,2,0,0,10,350,Honourable mention
+1997,Iskander,Karibzhanov,1,7,0,1,0,0,9,299,Honourable mention
+2013,Yerzhan,Imanmalik,0,0,0,7,1,0,8,355,Honourable mention
+2017,Shyngys,Bilyalov,7,4,0,1,0,0,12,416,Honourable mention
+2024,Dinmukhamed,Yegeubayev,2,0,0,7,0,0,9,457,Honourable mention
+1992,Yevgeni,Poroshenko,4,1,0,0,0,7,12,,Honourable mention
+2004,Azamat,Ukpegaziyev,6,5,0,0,1,0,12,281,
+1996,Renat,Bekbolatov,2,4,1,0,0,0,7,248,
+2017,Alexey,Tsekhovoy,5,1,0,6,0,0,12,416,
+1993,Roman,Kriven,1,0,0,0,1,3,5,284,
+1998,Kirill,Panov,1,0,2,3,0,0,6,296,
+1997,Vitaliy,Tsvayer,2,1,0,4,0,0,7,340,
+2004,Nurzhas,Makishev,2,1,1,3,0,0,7,366,
+1996,Nurzhan,Kajikabarov,2,0,1,0,0,1,4,325,
+1995,Zhaidarzhan,Zataev,2,0,1,1,3,0,7,329,
+1993,Daulet,Turetaev,0,2,0,0,1,0,3,339,
+1996,Alexander,Zaitsev,2,0,1,0,0,0,3,353,
+1996,Arnur,Toktabayev,0,0,1,1,1,0,3,353,
+1996,Erke,Nurkenov,0,0,1,0,1,0,2,372,
+1995,Dauren,Karabaev,2,0,0,1,0,0,3,370,
+1995,Eldos,Samalov,2,0,0,1,0,0,3,370,
+1996,Dimitry,Dzyabayev,0,0,1,0,0,0,1,392,
+1999,Alibek,Aldangarov,0,1,0,0,0,1,2,435,
+1992,Aibatyr,Zhumagulov,2,1,0,3,0,0,6,,

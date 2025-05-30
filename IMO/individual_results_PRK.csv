@@ -1,0 +1,73 @@
+Year,Name,Surname,Problem1,Problem2,Problem3,Problem4,Problem5,Problem6,Total,Rank,Award
+2013,Chung Song,Hong,7,7,7,7,6,6,40,3,Gold medal
+2009,Un Song,Ri,7,7,7,7,7,4,39,4,Gold medal
+2014,Songyong,Choe,7,7,7,7,7,5,40,4,Gold medal
+2015,Myonghyok,Ri,7,3,7,7,7,0,31,10,Gold medal
+2008,Un Song,Ri,7,7,7,7,7,0,35,12,Gold medal
+2019,Kuk Song,Hyon,7,7,7,7,7,2,37,14,Gold medal
+2016,Myonghyok,Ri,6,7,0,7,7,7,34,17,Gold medal
+2016,Kum Song,Jon,7,7,2,7,7,3,33,19,Gold medal
+2012,Chung Song,Hong,7,7,0,7,7,4,32,22,Gold medal
+2011,Hak Myong,Mun,7,1,7,7,7,0,29,25,Gold medal
+2015,Kum Song,Jon,7,1,7,7,4,2,28,26,Gold medal
+2015,Il Myong,Ri,7,7,0,7,7,0,28,26,Gold medal
+2009,Jong Chol,Kim,7,7,7,7,6,0,34,27,Gold medal
+2007,An,Sung Chol,7,7,1,7,7,0,29,28,Gold medal
+2008,Sin,Kum Song,7,7,7,6,7,0,34,29,Gold medal
+2013,Jihyon,Pak,7,6,0,7,7,5,32,30,Gold medal
+2012,Kwang,Choe,7,7,0,7,7,0,28,33,Gold medal
+2019,Sin Song,Kim,7,7,5,7,7,0,33,39,Gold medal
+2019,Ju Hyok,Sim,6,7,5,7,7,0,32,41,Gold medal
+2011,Chung Song,Hong,7,1,5,7,7,1,28,39,Gold medal
+2011,So Min,Mun,7,0,7,5,7,2,28,39,Gold medal
+2009,Yong Hyon,Ri,7,7,7,4,7,0,32,44,Gold medal
+2016,Un Song,Choe,7,7,0,7,7,0,28,45,Silver medal
+2007,Kang,Chung Hyok,7,7,0,7,7,0,28,40,Silver medal
+2007,Kim,Jin Hyok,7,7,0,7,7,0,28,40,Silver medal
+2007,An,Ok Song,7,7,0,6,7,1,28,40,Silver medal
+2019,Kwang Son,Hwang,7,7,0,7,7,1,29,55,Silver medal
+2014,Ji Hyon,Pak,7,7,0,7,7,0,28,50,Silver medal
+2014,Il Myong,Ri,7,7,0,7,7,0,28,50,Silver medal
+2008,An,Sung Chol,7,7,7,7,0,2,30,48,Silver medal
+2015,Song Hyok,Kang,7,7,1,7,1,0,23,58,Silver medal
+2015,Songyong,Choe,7,2,1,7,1,5,23,58,Silver medal
+2015,Jong Yol,Ri,7,5,1,7,2,1,23,58,Silver medal
+2019,Tae Song,Ri,7,7,0,7,7,0,28,65,Silver medal
+2019,Ung Chon,Pak,7,6,0,7,7,1,28,65,Silver medal
+2007,Sin,Kum Song,7,7,0,6,7,0,27,55,Silver medal
+2009,Hae Chol,Son,7,7,1,7,7,0,29,62,Silver medal
+2013,Kwang,Choe,7,7,0,7,7,0,28,61,Silver medal
+2013,Song Il,Kim,7,7,0,7,7,0,28,61,Silver medal
+2013,Songyong,Choe,7,0,7,7,7,0,28,61,Silver medal
+2013,Jongyol,Ri,7,0,7,7,7,0,28,61,Silver medal
+2011,Yong Hyon,Ri,7,0,3,7,7,1,25,66,Silver medal
+2016,Il Jin,Kim,7,2,0,7,2,7,25,78,Silver medal
+2016,Jong Yol,Ri,7,0,0,7,7,4,25,78,Silver medal
+2011,Hyo Song,Kim,4,0,7,1,7,5,24,74,Silver medal
+2008,Chol Hyok,Pak,5,7,7,7,1,0,27,71,Silver medal
+1992,Chei Jun,Ryu,7,5,7,6,0,3,28,47,Silver medal
+2011,Song Chol,Ryu,7,1,7,1,7,0,23,83,Silver medal
+1992,Chol Su,Yun,7,5,5,7,0,3,27,51,Silver medal
+1992,Gwang Chol,Li,7,5,3,7,0,5,27,51,Silver medal
+1990,Sang,Chol Ryu,7,7,2,2,7,1,26,50,Silver medal
+2009,Jang Su,Choe,7,5,1,7,7,0,27,101,Silver medal
+2016,Yu Song,Han,7,7,0,7,1,1,23,114,Silver medal
+2008,Gwang Chon,Kim,7,6,0,4,7,0,24,107,Silver medal
+2012,Hyo Song,Kim,7,7,0,7,0,0,21,112,Silver medal
+2008,Jin Song,Kim,7,7,1,6,2,0,23,116,Silver medal
+2014,Song Il,Kim,7,7,0,7,1,0,22,124,Silver medal
+2014,Jong Yol,Ri,7,2,0,7,6,0,22,124,Silver medal
+1992,Ryong Sok,Chang,7,7,0,7,0,2,23,82,Bronze medal
+1990,Gyong,Sik Li,7,7,1,1,2,4,22,80,Bronze medal
+1990,In,Chel Kim,3,7,2,3,5,2,22,80,Bronze medal
+2009,Ho Gon,Jon,7,2,1,7,2,3,22,168,Bronze medal
+2012,Il Bong,Ju,7,7,0,2,0,0,16,204,Bronze medal
+2012,Kwang Song,Choe,7,1,0,5,3,0,16,204,Bronze medal
+1990,Sang,Ryong Pak,7,3,1,2,5,0,18,116,Bronze medal
+1992,Chol Man,Pak,6,2,0,5,0,2,15,133,Bronze medal
+2012,Myong Bom,Kim,7,1,0,2,5,0,15,229,Bronze medal
+2007,Pak,Il Jin,2,0,0,7,2,0,11,293,Honourable mention
+2014,Won Chol,Pak,7,0,0,7,0,0,14,321,Honourable mention
+1990,Ryong,Song Pak,1,2,1,2,4,1,11,216,
+1990,Chol,Nam Chong,4,1,2,1,1,1,10,225,
+1992,Tae Sun,Lim,0,3,0,0,0,3,6,238,

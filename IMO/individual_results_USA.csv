@@ -1,0 +1,313 @@
+Year,Name,Surname,Problem1,Problem2,Problem3,Problem4,Problem5,Problem6,Total,Rank,Award
+1978,Mark,Kleiman,6,7,8,5,6,8,40,1,Gold medal
+1975,Paul,Herdeg,6,7,7,6,6,8,40,1,Gold medal
+1975,Paul,Vojta,6,7,7,6,6,8,40,1,Gold medal
+1977,Michael,Larsen,6,6,7,6,7,8,40,1,Gold medal
+1977,Randall,Dougherty,6,6,7,6,7,8,40,1,Gold medal
+1981,Noam,Elkies,7,7,7,7,7,7,42,1,Gold medal
+1984,David,Moews,7,7,7,7,7,7,42,1,Gold medal
+1987,Eric K.,Wepsic,7,7,7,7,7,7,42,1,Gold medal
+1987,Jordan S.,Ellenberg,7,7,7,7,7,7,42,1,Gold medal
+1989,Jordan S.,Ellenberg,7,7,7,7,7,7,42,1,Gold medal
+1997,Carl,Bosley,7,7,7,7,7,7,42,1,Gold medal
+2001,Reid,Barton,7,7,7,7,7,7,42,1,Gold medal
+2001,Gabriel,Carroll,7,7,7,7,7,7,42,1,Gold medal
+2005,Brian,Lawrence,7,7,7,7,7,7,42,1,Gold medal
+1981,Benji,Fisher,7,7,7,7,7,7,42,1,Gold medal
+1981,Jeremy,Primer,7,7,7,7,7,7,42,1,Gold medal
+1981,Brian,Hunt,7,7,7,7,7,7,42,1,Gold medal
+1994,Stephen,Wang,7,7,7,7,7,7,42,1,Gold medal
+1994,Jeremy,Bem,7,7,7,7,7,7,42,1,Gold medal
+1994,Jonathan,Weinstein,7,7,7,7,7,7,42,1,Gold medal
+1994,Aleksandr,Khazanov,7,7,7,7,7,7,42,1,Gold medal
+1994,Noam,Shazeer,7,7,7,7,7,7,42,1,Gold medal
+1994,Jacob,Lurie,7,7,7,7,7,7,42,1,Gold medal
+2008,Alex (Lin),Zhai,7,7,7,7,7,7,42,1,Gold medal
+2018,James,Lin,7,7,7,7,7,7,42,1,Gold medal
+2016,Yuan,Yao,7,7,7,7,7,7,42,1,Gold medal
+2016,Allen,Liu,7,7,7,7,7,7,42,1,Gold medal
+2023,Derek,Liu,7,7,7,7,7,7,42,1,Gold medal
+2019,Colin Shanmo,Tang,7,7,7,7,7,7,42,1,Gold medal
+2019,Daniel,Zhu,7,7,7,7,7,7,42,1,Gold medal
+2010,Evan,O'Dorney,6,7,5,7,7,7,39,2,Gold medal
+2021,Luke,Robitaille,7,1,7,7,7,7,36,3,Gold medal
+2024,Alexander,Wang,7,7,3,7,7,7,38,3,Gold medal
+2018,Mihir Anand,Singhal,7,7,5,7,7,7,40,3,Gold medal
+2012,Bobby,Shen,7,7,4,7,7,7,39,3,Gold medal
+2020,Luke,Robitaille,7,7,7,7,7,1,36,4,Gold medal
+2011,David,Yang,7,7,7,7,7,1,36,4,Gold medal
+2002,Po-Ru,Loh,7,7,1,7,7,7,36,4,Gold medal
+2024,Jessica,Wan,7,7,5,7,7,2,35,5,Gold medal
+2015,Allen,Liu,7,7,7,7,1,6,35,5,Gold medal
+2015,David,Stoner,7,7,7,7,7,0,35,5,Gold medal
+1996,Alexander Harry,Saltman,7,7,7,7,2,7,37,4,Gold medal
+1993,Lenhard,Ng,7,7,7,2,7,7,37,4,Gold medal
+2023,Alexander,Wang,7,7,7,7,7,6,41,6,Gold medal
+2017,James,Lin,7,7,0,7,7,2,30,6,Gold medal
+2000,Reid,Barton,7,7,7,7,7,4,39,5,Gold medal
+2007,Alex (Lin),Zhai,7,7,3,7,7,1,32,7,Gold medal
+2007,Sherry,Gong,7,7,3,7,7,1,32,7,Gold medal
+2004,Oleg,Gol'berg,7,7,5,7,7,7,40,7,Gold medal
+1997,Nathan,Curtis,7,7,7,7,7,5,40,7,Gold medal
+1996,Christopher C.,Chang,7,7,6,7,2,7,36,7,Gold medal
+1986,Joseph,Keane,7,7,7,7,6,7,41,4,Gold medal
+1976,Mark,Kleiman,5,7,6,6,7,7,38,3,Gold medal
+2012,David,Yang,7,7,7,7,1,7,36,9,Gold medal
+2018,Vincent,Huang,7,6,2,7,7,7,36,10,Gold medal
+2015,Yang,Liu,7,7,7,7,3,0,31,10,Gold medal
+2015,Ryan,Alweiss,7,2,1,7,7,7,31,10,Gold medal
+2019,Vincent,Huang,7,7,3,7,7,7,38,11,Gold medal
+2004,Tiankai,Liu,7,7,3,7,7,7,38,9,Gold medal
+2013,Victor,Wang,7,7,7,7,7,0,35,10,Gold medal
+2013,Mark,Sellke,7,7,0,7,7,7,35,10,Gold medal
+2013,Bobby,Shen,7,7,0,7,7,7,35,10,Gold medal
+2023,Eric,Shen,7,7,7,7,7,2,37,12,Gold medal
+2023,Huaye Jeff,Lin,7,7,7,7,7,2,37,12,Gold medal
+2016,Ashwin,Sah,7,7,6,7,7,1,35,12,Gold medal
+2016,Junyao,Peng,7,7,0,7,7,7,35,12,Gold medal
+2012,Thomas,Swayze,7,7,7,7,7,0,35,11,Gold medal
+2022,Derek,Liu,7,7,5,7,7,7,40,12,Gold medal
+2008,Colin,Sandon,7,7,7,7,7,0,35,12,Gold medal
+2024,Linus,Tang,7,7,3,7,7,1,32,14,Gold medal
+2019,Brandon,Wang,7,7,7,7,7,1,36,15,Gold medal
+2004,Aaron,Pixton,7,7,2,7,7,7,37,12,Gold medal
+2009,John,Berman,7,7,7,7,7,0,35,14,Gold medal
+2011,Benjamin,Gunby,7,2,7,7,7,0,30,14,Gold medal
+2011,Xiaoyu,He,7,1,7,7,7,1,30,14,Gold medal
+2011,Evan,O'Dorney,7,7,0,7,7,2,30,14,Gold medal
+2000,George Jr.,Lee,7,7,7,7,4,4,36,12,Gold medal
+2003,Po-Ru,Loh,7,7,7,7,7,1,36,12,Gold medal
+1979,Michael,Larsen,6,7,7,5,7,7,39,5,Gold medal
+1992,Kiran,Kedlaya,7,7,7,7,1,7,36,9,Gold medal
+2014,James,Tao,7,7,7,7,7,0,35,15,Gold medal
+2014,Mark,Sellke,7,7,0,7,7,7,35,15,Gold medal
+1982,Noam,Elkies,7,6,7,7,6,7,40,4,Gold medal
+1990,Kiran,Kedlaya,7,7,4,7,7,7,39,9,Gold medal
+1998,Sasha,Schwartz,7,7,7,7,7,1,36,12,Gold medal
+2019,Luke,Robitaille,7,6,2,7,7,6,35,18,Gold medal
+1985,Waldemar,Horwat,7,7,7,7,0,7,35,7,Gold medal
+2002,Tiankai,Liu,7,7,5,3,3,7,32,15,Gold medal
+2024,Krishna,Pothapragada,7,6,2,7,7,2,31,19,Gold medal
+2006,Arnav,Tripathy,7,7,2,7,7,0,30,16,Gold medal
+2018,Andrew,Gu,7,7,0,7,7,6,34,19,Gold medal
+2022,Luke,Robitaille,7,7,2,7,7,7,37,19,Gold medal
+1992,Robert,Kleinberg,7,7,7,7,1,6,35,11,Gold medal
+1999,Reid,Barton,7,7,7,7,2,4,34,15,Gold medal
+2005,Eric,Price,6,7,7,7,7,7,41,17,Gold medal
+1993,Andrew,Dittmer,6,7,5,1,7,7,33,14,Gold medal
+1983,Michael,Reid,,,,,,,38,7,Gold medal
+2003,Daniel,Kane,7,7,0,7,7,7,35,16,Gold medal
+1998,Gabriel,Carroll,7,7,7,4,7,3,35,15,Gold medal
+2020,William,Wang,7,7,4,7,7,1,33,22,Gold medal
+2020,Quanlin,Chen,7,7,4,7,7,1,33,22,Gold medal
+2016,Michael,Kural,6,7,1,7,7,3,31,23,Gold medal
+2005,Thomas,Mildorf,7,7,7,7,7,4,39,20,Gold medal
+2021,Zifan,Wang,7,0,1,7,7,7,29,24,Gold medal
+2022,Eric,Shen,7,7,7,7,7,1,36,23,Gold medal
+2022,Kevin,Cong,7,7,2,7,7,6,36,23,Gold medal
+2002,Ricky,Liu,7,7,1,7,7,2,31,19,Gold medal
+2002,Daniel,Kane,3,6,1,7,7,7,31,19,Gold medal
+2001,Ian,Le,7,7,6,7,6,1,34,19,Gold medal
+2006,Zarathustra,Brady,7,7,1,7,7,0,29,21,Gold medal
+2003,Aaron,Pixton,7,7,4,7,7,1,33,20,Gold medal
+1999,Paul,Valiant,7,7,2,7,7,2,32,20,Gold medal
+2011,Mitchell,Lee,7,1,7,7,7,0,29,25,Gold medal
+2011,Wenyu,Cao,7,0,7,7,7,1,29,25,Gold medal
+2015,Shyam,Narayanan,7,7,2,7,5,0,28,26,Gold medal
+2019,Edward,Wan,7,6,0,7,7,7,34,28,Gold medal
+2023,Alex,Zhao,7,7,7,7,7,0,35,28,Gold medal
+2014,Allen,Liu,7,5,7,7,7,0,33,26,Gold medal
+1975,Miller,Puckette,6,7,7,6,6,7,39,7,Gold medal
+2003,Anders,Kaseorg,7,7,7,7,1,3,32,22,Gold medal
+2009,Eric,Larson,7,7,3,7,7,3,34,27,Gold medal
+2017,Ankan,Bhattacharya,7,5,0,7,7,0,26,30,Gold medal
+2017,Andrew,Gu,7,4,0,7,7,1,26,30,Gold medal
+1996,Michael,Korn,7,7,7,1,2,7,31,21,Gold medal
+1996,Carl,Bosley,7,5,2,7,3,7,31,21,Gold medal
+1985,Jeremy,Kahn,7,7,2,7,4,7,34,11,Gold medal
+2014,Yang,Liu,7,7,3,7,7,1,32,28,Gold medal
+1992,Lenhard,Ng,7,7,7,7,1,4,33,17,Gold medal
+2010,Xiaoyu,He,7,7,0,7,7,0,28,27,Gold medal
+2021,Maxim,Li,6,0,1,7,7,7,28,32,Gold medal
+1986,David,Grabiner,7,7,1,7,7,7,36,12,Gold medal
+2012,Mitchell,Lee,7,7,5,6,4,0,29,30,Gold medal
+1991,Joel,Rosenberg,7,7,4,7,7,7,39,18,Gold medal
+2005,Robert,T. Cordwell,5,7,7,7,3,7,36,29,Gold medal
+2018,Michael,Ren,7,7,0,7,7,3,31,34,Gold medal
+2012,Ravi,Jagadeesan,7,5,3,5,4,4,28,33,Gold medal
+1998,Reid,Barton,4,7,7,7,0,7,32,26,Gold medal
+1990,Jeffrey M.,Vanderkam,7,7,4,7,7,3,35,20,Gold medal
+1986,Jeremy,Kahn,2,7,5,7,7,7,35,14,Gold medal
+2014,Sammy,Luo,7,7,0,7,2,7,30,36,Gold medal
+2013,James,Tao,7,3,7,7,7,0,31,34,Gold medal
+2008,Shaunak,Kishore,7,5,6,7,7,0,32,35,Gold medal
+2008,Krishanu Roy,Sankar,7,5,0,6,7,7,32,35,Gold medal
+2021,Noah,Walsh,6,0,0,7,7,7,27,41,Gold medal
+2004,Alison,Miller,6,7,3,7,3,7,33,33,Gold medal
+2004,Tony,Zhang,6,7,4,7,7,2,33,33,Gold medal
+2016,Ankan,Bhattacharya,3,7,6,7,6,0,29,41,Gold medal
+2001,Tiankai,Liu,7,5,5,7,2,5,31,33,Gold medal
+2024,Qiao,Zhang,7,7,0,5,7,3,29,47,Gold medal
+2000,Oaz,Nir,7,7,2,7,7,0,30,36,Gold medal
+2010,Benjamin,Gunby,6,7,0,7,7,0,27,42,Gold medal
+1983,Douglas,Jungreis,,,,,,,36,10,Silver medal
+1991,Michail,Sunitsky,7,7,3,7,7,7,38,21,Silver medal
+1991,Kiran,Kedlaya,7,7,4,6,7,7,38,21,Silver medal
+1988,Jordan S.,Ellenberg,4,5,7,7,7,1,31,18,Silver medal
+1988,John,Woo,7,5,6,2,7,4,31,18,Silver medal
+1976,Paul,Herdeg,2,2,7,6,7,7,31,10,Silver medal
+2015,Michael,Kural,7,2,7,7,2,0,25,40,Silver medal
+1989,Andrew H.,Kresch,7,7,2,7,7,7,37,21,Silver medal
+1989,Samuel A.,Kutin,7,7,2,7,7,7,37,21,Silver medal
+2022,Andrew,Gu,7,7,0,7,7,5,33,45,Silver medal
+1990,Royce,Peng,1,7,7,7,7,4,33,24,Silver medal
+2007,Brian,Lawrence,6,7,0,7,7,1,28,40,Silver medal
+2017,Zachary,Chroman,7,2,0,7,1,7,24,49,Silver medal
+2002,Anders,Kaseorg,7,6,1,0,7,7,28,40,Silver medal
+1978,Ehud,Reiter,6,6,8,5,6,0,31,12,Silver medal
+2021,Quanlin,Chen,7,1,1,7,7,0,23,53,Silver medal
+1979,Bruce,Smith,0,7,7,6,7,7,34,15,Silver medal
+1995,Joshua,Nichols-Barrer,7,0,7,7,7,7,35,36,Silver medal
+1983,Steven,Newman,,,,,,,33,17,Silver medal
+1985,Bjorn,Poonen,7,7,7,2,1,7,31,19,Silver medal
+2014,Joshua,Brakensiek,7,7,6,7,1,0,28,50,Silver medal
+1998,Melanie,Wood,7,7,2,7,0,7,30,38,Silver medal
+2010,Calvin,Deng,7,7,0,7,0,5,26,48,Silver medal
+1990,Avinoam,Freedman,7,7,3,7,7,1,32,29,Silver medal
+2004,Matt,Ince,7,6,3,7,4,4,31,46,Silver medal
+1982,Brian,Hunt,7,0,7,7,7,7,35,12,Silver medal
+2012,Xiaoyu,He,7,7,7,6,0,0,27,52,Silver medal
+2009,Evan,O'Dorney,7,7,7,2,7,0,30,54,Silver medal
+2020,Tianze,Jiang,7,7,0,7,7,1,29,59,Silver medal
+2006,Alex (Lin),Zhai,7,6,1,6,2,3,25,49,Silver medal
+2003,Mark,Lipson,7,5,0,7,7,1,27,46,Silver medal
+1978,Victor,Milenkovic,5,7,6,5,6,1,30,14,Silver medal
+2010,In Sung,Na,7,7,3,7,1,0,25,53,Silver medal
+2021,Ankit,Bisain,7,0,7,7,0,1,22,63,Silver medal
+1986,John,Overdeck,7,7,1,7,6,4,32,22,Silver medal
+1985,David,Grabiner,0,7,7,7,1,7,29,22,Silver medal
+2018,Adam,Ardeishar,7,7,0,7,7,1,29,61,Silver medal
+2006,Zachary,Abel,7,7,1,7,2,0,24,52,Silver medal
+1991,Robert,Kleinberg,7,7,3,6,7,7,37,34,Silver medal
+1984,David,Grabiner,7,7,7,7,0,7,35,21,Silver medal
+2013,Thomas,Swayze,7,7,0,7,7,1,29,57,Silver medal
+1997,Li-Chung,Chen,4,7,7,7,7,0,32,50,Silver medal
+1989,Jeffrey M.,Vanderkam,7,7,2,7,7,5,35,32,Silver medal
+2003,Yan,Zhang,7,3,0,7,7,1,25,50,Silver medal
+2009,Qinxuan,Pan,7,7,1,7,7,0,29,62,Silver medal
+2009,Delong,Meng,7,7,1,7,7,0,29,62,Silver medal
+2000,Ricky,Liu,3,7,7,7,0,3,27,52,Silver medal
+2023,Maximus,Lu,7,7,7,7,2,0,30,71,Silver medal
+1998,Kevin,Lacker,7,0,5,7,3,7,29,49,Silver medal
+2017,Junyao,Peng,7,7,0,7,0,1,22,72,Silver medal
+1996,Nathan,Curtis,7,2,7,7,1,1,25,50,Silver medal
+1996,Carl Alexander,Miller,4,0,7,6,1,7,25,50,Silver medal
+1977,Peter,Shor,,,,,,,30,19,Silver medal
+2006,Ryan (Taehyeon),Ko,7,7,1,7,1,0,23,60,Silver medal
+2006,Yi,Sun,7,7,1,7,1,0,23,60,Silver medal
+2010,Allen,Yuan,7,7,0,7,2,0,23,64,Silver medal
+2000,Paul,Valiant,7,5,3,4,0,7,26,57,Silver medal
+2000,Po-Ru,Loh,7,7,1,7,4,0,26,57,Silver medal
+1978,Randall,Dougherty,6,4,8,5,6,0,29,17,Silver medal
+1999,Melanie,Wood,7,7,1,6,2,1,24,56,Silver medal
+2024,Jordan,Lefkowitz,7,7,6,7,0,0,27,76,Silver medal
+1984,Michael,Reid,7,7,7,7,6,0,34,25,Silver medal
+1997,John,Clyde,5,2,7,7,7,2,30,60,Silver medal
+1995,Aleksandr,Khazanov,4,7,7,7,2,7,34,54,Silver medal
+1974,Eric,Lander,5,6,8,6,1,8,34,19,Silver medal
+1974,Stephen,Modzelewski,5,6,2,6,7,8,34,19,Silver medal
+1974,Gerhard,Arenstorf,5,6,2,6,7,8,34,19,Silver medal
+2001,Oaz,Nir,6,1,2,7,7,1,24,65,Silver medal
+1999,Gabriel,Carroll,7,1,7,4,3,1,23,62,Silver medal
+2005,Sherry,Gong,1,7,0,7,7,6,28,72,Silver medal
+1986,Darien,Lefkowitz,3,7,2,4,7,7,30,30,Silver medal
+1983,Jeremy,Kahn,,,,,,,28,27,Silver medal
+2008,Evan,O'Dorney,7,4,0,7,7,1,26,78,Silver medal
+1987,Robert,Southworth,7,7,6,7,7,4,38,36,Silver medal
+1997,Daniel,Stronger,7,7,4,7,3,1,29,70,Silver medal
+1997,Joshua,Nichols-Barrer,7,7,0,7,7,1,29,70,Silver medal
+2001,Dong,Shin,7,4,1,7,4,0,23,73,Silver medal
+1985,David,Moews,7,7,4,0,4,5,27,33,Silver medal
+1992,Wei Hwa,Huang,2,3,7,5,5,5,27,51,Silver medal
+1993,Wei Hwa,Huang,0,2,7,4,7,3,23,66,Silver medal
+1976,Miller,Puckette,1,2,3,6,7,7,26,23,Silver medal
+1979,Mark,Pleszkoch,0,7,7,5,7,6,32,28,Silver medal
+2017,Vincent,Huang,7,4,0,7,1,1,20,103,Silver medal
+1991,Lenhard,Ng,7,7,3,7,7,3,34,54,Silver medal
+1982,Washington,Taylor,4,3,6,7,7,5,32,21,Silver medal
+2005,Hyun,Soo Kim,1,1,7,7,7,4,27,89,Silver medal
+1988,Samuel A.,Kutin,5,5,1,7,7,1,26,47,Silver medal
+1992,Andrew H.,Schultz,7,3,1,5,3,7,26,57,Silver medal
+1993,Stephen,Wang,7,2,0,2,7,4,22,73,Silver medal
+1995,Jacob,Lurie,7,0,3,7,7,7,31,73,Silver medal
+2007,Eric,Larson,7,7,0,7,1,0,22,93,Silver medal
+2007,Arnav,Tripathy,7,7,0,7,1,0,22,93,Silver medal
+1984,Steven,Newman,7,7,7,5,4,0,30,35,Silver medal
+1984,Jeremy,Kahn,7,7,0,2,7,7,30,35,Silver medal
+1974,David,Barton,5,6,0,6,7,8,32,26,Silver medal
+1976,Daniel,Knierim,5,7,8,5,0,0,25,26,Silver medal
+1977,Victor,Milenkovic,,,,,,,26,29,Silver medal
+1977,Mark,Kleiman,,,,,,,26,29,Silver medal
+1987,William,Schneeberger,7,7,1,7,7,7,36,44,Silver medal
+2020,Gopal,Goel,7,5,0,7,7,1,27,114,Silver medal
+1986,William,Cross,7,7,1,7,6,1,29,40,Silver medal
+1999,Po-Shen,Loh,7,4,2,4,2,1,20,85,Silver medal
+1985,Joseph,Keane,0,3,7,7,0,7,24,40,Silver medal
+1989,Samuel K.,Vandervelde,7,5,1,7,7,5,32,59,Silver medal
+2009,Wenyu,Cao,7,7,1,3,7,0,25,117,Silver medal
+1988,Tal,Kubo,7,5,1,7,4,0,24,56,Silver medal
+2020,Jeffrey,Kwan,7,3,0,7,7,1,25,131,Silver medal
+1981,Gregg,Patruno,,,,,,,39,40,Silver medal
+1981,Richard,Stong,,,,,,,39,40,Silver medal
+2008,Paul,Christiano,7,2,0,7,7,0,23,116,Silver medal
+2013,Ray,Li,7,4,0,7,5,2,25,117,Silver medal
+1988,Eric K.,Wepsic,7,7,7,0,1,1,23,60,Silver medal
+1974,Thomas,Nisonger,5,1,8,6,6,5,31,32,Silver medal
+1975,Stephen,Modzelewski,6,7,6,6,6,1,32,31,Silver medal
+1992,Sergey,Levin,7,5,3,5,0,4,24,73,Silver medal
+1998,Paul,Valiant,4,7,6,7,0,0,24,95,Silver medal
+1990,Joel,Rosenberg,0,7,1,7,7,1,23,71,Silver medal
+1976,Randall,Dougherty,5,0,4,6,1,7,23,33,Silver medal
+1987,John,Woo,7,7,7,7,1,3,32,59,Silver medal
+1981,James,Roche,,,,,,,35,65,Silver medal
+1978,Charles,Walter,6,4,4,5,6,1,26,26,Bronze medal
+1978,David,Montana,6,0,8,5,6,1,26,26,Bronze medal
+1995,Andrei,Gnepp,7,0,7,6,7,1,28,102,Bronze medal
+1982,Douglas,Jungreis,7,0,7,3,7,5,29,31,Bronze medal
+2007,Tedrick,Leung,7,1,0,7,3,1,19,133,Bronze medal
+1979,Michael,Finn,0,4,3,6,7,7,27,44,Bronze medal
+1999,Lawrence,Detlor,7,2,1,5,1,1,17,119,Bronze medal
+1993,Jeremy,Bem,7,1,1,1,4,4,18,111,Bronze medal
+1993,Tim,Chklovski,1,2,0,5,7,3,18,111,Bronze medal
+1984,Douglas,Davidson,7,7,7,0,3,0,24,53,Bronze medal
+1995,Jay,Chyung,7,0,6,7,6,1,27,114,Bronze medal
+1975,Steven,Tschantz,6,7,0,6,2,8,29,38,Bronze medal
+1974,Douglas,Oman,5,4,0,6,4,8,27,40,Bronze medal
+1987,Matthew,Cook,7,7,7,1,7,1,30,69,Bronze medal
+1975,Russell,Lyons,5,7,7,6,0,3,28,41,Bronze medal
+1975,Reed,Kelly,6,7,0,6,6,3,28,41,Bronze medal
+1991,Ruby,Breydo,7,7,3,5,4,0,26,96,Bronze medal
+1976,Reed,Kelly,2,0,2,6,4,7,21,43,Bronze medal
+1983,James,Yeh,,,,,,,21,58,Bronze medal
+1979,Laurence,Penn,2,7,1,6,7,1,24,52,Bronze medal
+1977,James,Propp,,,,,,,21,50,Bronze medal
+1974,Paul,Zeitz,5,6,7,3,0,5,26,49,Bronze medal
+1988,Hubert L.,Bray,4,2,1,7,1,3,18,94,Bronze medal
+1989,David B.,Carlton,0,3,0,7,7,7,24,104,Bronze medal
+1974,Paul,Herdeg,5,1,0,4,7,8,25,52,Bronze medal
+1995,Christopher C.,Chang,7,0,1,7,2,6,23,153,Bronze medal
+2022,Ram,Goel,7,7,0,7,4,0,25,230,Bronze medal
+1981,David,Yuen,,,,,,,33,74,Bronze medal
+1978,Andrew,Bernoff,3,4,4,5,6,0,22,56,Bronze medal
+1983,John,Steinke,,,,,,,15,87,Bronze medal
+2002,Tong-Ke,Xue,7,1,1,0,3,1,13,233,Honourable mention
+1978,Daniel,Bloch,6,4,1,4,6,0,21,64,
+1979,Richard,Agin,0,7,0,0,3,7,17,93,
+1979,Ronald,Kaminsky,1,0,7,0,7,2,17,93,
+1976,Scott,Cohen,1,0,1,5,0,7,14,83,
+1977,Paul,Weiss,,,,,,,13,97,
+1990,Timothy,Kokesh,1,3,1,2,4,1,12,201,
+1976,Richard,Mifflin,4,0,1,4,0,1,10,103,
+1975,Bernard,Beard,2,3,3,0,2,1,11,109,
+1979,Randy,Ekl,0,1,0,0,7,1,9,135,
+1977,Ronald,Kaminsky,,,,,,,6,133,

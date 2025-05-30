@@ -1,0 +1,238 @@
+Year,Name,Surname,Problem1,Problem2,Problem3,Problem4,Problem5,Problem6,Total,Rank,Award
+1959,Bohuslav,Diviš,5,8,7,5,8,7,40,1,Gold medal
+1968,Tomáš,Mašek,6,7,7,5,7,8,40,1,Gold medal
+1968,Bohuslav,Sivák,6,7,7,5,7,8,40,1,Gold medal
+1989,Petr,Čížek,7,7,7,7,7,7,42,1,Gold medal
+1960,Ivan,Korec,,,,,,,43,1,Gold medal
+1979,Jan,Nekovář,6,7,7,6,7,7,40,1,Gold medal
+1981,Jan,Nekovář,7,7,7,7,7,7,42,1,Gold medal
+1983,Jiří,Sgall,7,6,7,7,7,4,38,7,Gold medal
+1989,Ondrej,Šuch,7,7,7,7,7,6,41,11,Gold medal
+1963,Josef,Daneš,6,7,5,5,6,6,35,6,Gold medal
+1978,Jan,Nekovář,6,5,8,5,6,4,34,6,Silver medal
+1983,Igor,Kříž,7,7,7,7,7,1,36,10,Silver medal
+1991,Michal,Stehlík,7,7,3,7,7,7,38,21,Silver medal
+1978,Jan,Kratochvíl,6,7,7,5,6,1,32,10,Silver medal
+1990,Petr,Hliněný,7,7,2,7,7,3,33,24,Silver medal
+1992,Michal,Stehlík,7,3,7,2,7,5,31,27,Silver medal
+1977,Jiří,Navrátil,6,0,7,6,6,8,33,14,Silver medal
+1989,Petr,Hliněný,7,7,1,7,7,7,36,28,Silver medal
+1964,Tamara,Marcisová,7,7,6,6,4,6,36,8,Silver medal
+1964,Pavel,Bureš,7,7,6,6,4,6,36,8,Silver medal
+1991,Michal,Konečný,7,7,5,7,4,7,37,34,Silver medal
+1990,Štěpán,Kasal,7,7,1,1,7,7,30,35,Silver medal
+1973,Pavel,Ferst,1,6,8,1,6,7,29,15,Silver medal
+1984,Jiří,Witzany,7,1,7,6,7,6,34,25,Silver medal
+1982,Jiří,Sgall,6,0,7,7,7,7,34,16,Silver medal
+1988,Petr,Čížek,7,7,7,1,5,1,28,38,Silver medal
+1988,Ilja,Martišovitš,7,7,7,0,7,0,28,38,Silver medal
+1986,Vladimír,Kordula,2,7,0,7,7,7,30,30,Silver medal
+1965,David,Preiss,4,6,8,5,5,4,32,12,Silver medal
+1992,Michal,Kubeček,7,7,7,1,0,6,28,47,Silver medal
+1991,Michal,Kubeček,7,4,3,7,7,7,35,47,Silver medal
+1987,Pavol,Gvozdjak,7,7,7,7,7,3,38,36,Silver medal
+1977,Zdeněk,Kalousek,6,6,6,0,7,3,28,25,Silver medal
+1960,Jiří,Souček,,,,,,,37,7,Silver medal
+1990,Ondrej,Šuch,3,3,3,7,7,3,26,50,Silver medal
+1987,Vladan,Majerech,7,7,7,7,7,2,37,40,Silver medal
+1985,Marcel,Polakovič,7,7,0,4,0,7,25,38,Silver medal
+1991,Richard,Kollár,7,7,3,7,7,2,33,58,Silver medal
+1977,Pavol,Quittner,6,4,0,1,7,8,26,29,Silver medal
+1966,Bohuslav,Sivák,6,7,5,5,7,8,38,14,Silver medal
+1987,Petr,Čížek,7,7,7,7,7,0,35,45,Silver medal
+1982,Igor,Kříž,7,1,7,7,7,2,31,24,Silver medal
+1976,Jan,Kratochvíl,5,3,3,6,0,7,24,28,Silver medal
+1981,Igor,Kříž,7,7,7,6,6,7,40,37,Silver medal
+1990,Pavol,Severa,0,7,2,7,7,1,24,63,Silver medal
+1990,Michal,Konečný,0,7,0,7,7,3,24,63,Silver medal
+1985,Jarmila,Ranošová,7,3,0,3,7,3,23,44,Silver medal
+1986,Petr,Hájek,0,7,0,7,7,7,28,45,Silver medal
+1985,Adam,Obdržálek,1,7,1,7,0,6,22,47,Silver medal
+1981,Jozef,Bednárik,7,7,7,7,3,7,38,43,Silver medal
+1981,Petr,Couf,7,7,3,7,7,7,38,43,Silver medal
+1967,Bohuslav,Sivák,5,5,8,4,5,3,30,24,Silver medal
+1962,Peter,Hatala,6,6,8,4,7,4,35,14,Silver medal
+1986,Marcel,Polakovič,7,7,0,7,6,0,27,51,Silver medal
+1984,Juraj,Balász,7,7,0,7,4,1,26,47,Silver medal
+1987,Robert,Babilon,7,3,7,7,1,7,32,59,Silver medal
+1968,Vladimír,Müller,6,7,2,5,7,8,35,33,Silver medal
+1968,Jiří,Vinárek,6,7,1,5,7,8,34,38,Silver medal
+1968,Pavel,Polcar,5,7,7,0,7,8,34,38,Silver medal
+1968,Libor,Polák,5,7,1,5,7,8,33,43,Silver medal
+1961,Tomáš,Jech,,,,,,,33,8,Bronze medal
+1983,Vladimír,Dančík,7,7,4,7,0,0,25,37,Bronze medal
+1969,Tomáš,Mašek,5,7,7,1,7,1,28,25,Bronze medal
+1969,Jiří,Vinárek,5,2,1,6,6,8,28,25,Bronze medal
+1964,Miloslav,Znojil,6,0,5,6,7,6,30,17,Bronze medal
+1960,Petr,Tomšů,,,,,,,34,10,Bronze medal
+1974,Alena,Vencovská,5,4,1,6,5,8,29,35,Bronze medal
+1975,Michael,Valášek,6,5,7,0,6,6,30,34,Bronze medal
+1965,Tamara,Marcisová,4,0,8,6,7,4,29,21,Bronze medal
+1982,Petr,Couf,7,0,2,7,6,7,29,31,Bronze medal
+1967,Radovan,Gregor,3,7,8,3,2,6,29,26,Bronze medal
+1984,Martin,Grajcar,6,7,0,7,4,1,25,50,Bronze medal
+1989,Tomáš,Brodský,1,7,0,7,7,7,29,76,Bronze medal
+1978,Zdeněk,Vavřín,6,6,0,5,6,1,24,35,Bronze medal
+1992,Martin,Niepel,7,3,1,5,0,6,22,86,Bronze medal
+1973,Miroslav,Kmošek,6,0,8,3,6,0,23,34,Bronze medal
+1976,Miroslav,Šedivý,5,0,2,1,7,7,22,38,Bronze medal
+1988,Pavol,Gvozdjak,4,7,7,3,0,0,21,73,Bronze medal
+1988,Stanislav,Krajči,7,7,2,2,3,0,21,73,Bronze medal
+1986,Adam,Zach,0,7,1,7,3,7,25,60,Bronze medal
+1979,Josef,Tkadlec,1,4,7,6,7,1,26,48,Bronze medal
+1992,Luboš,Motl,5,2,1,7,0,6,21,93,Bronze medal
+1960,Jan,Veselý,,,,,,,33,12,Bronze medal
+1962,Jaroslav,Ježek,6,6,8,5,4,4,33,17,Bronze medal
+1972,Jan,Brychta,,,,,,,26,32,Bronze medal
+1969,Petr,Hadrava,2,5,4,6,7,1,25,34,Bronze medal
+1991,Štěpán,Kasal,0,2,3,7,7,7,26,96,Bronze medal
+1989,Vladimír,Komár,7,7,0,0,7,6,27,88,Bronze medal
+1989,Marek,Velešík,6,0,0,7,7,7,27,88,Bronze medal
+1987,Roman,Soták,7,3,0,7,7,5,29,72,Bronze medal
+1979,Jozef,Jirásek,0,7,7,6,0,4,24,52,Bronze medal
+1977,Ilja,Turek,6,3,0,6,6,0,21,50,Bronze medal
+1970,Jiří,Tůma,5,7,0,5,6,0,23,37,Bronze medal
+1967,Pavel,Polcar,5,0,8,3,7,4,27,33,Bronze medal
+1992,Pavel,Růžička,5,0,1,2,7,4,19,108,Bronze medal
+1973,Tomáš,Chrz,3,5,8,4,1,0,21,43,Bronze medal
+1973,Pavel,Kindlmann,2,0,7,6,6,0,21,43,Bronze medal
+1979,Radan,Kučera,0,7,7,1,7,1,23,57,Bronze medal
+1986,Roman,Soták,3,7,0,0,6,5,21,73,Bronze medal
+1975,Jiří,Navrátil,6,7,0,0,6,8,27,48,Bronze medal
+1978,Milan,Veščičík,6,4,2,5,6,0,23,47,Bronze medal
+1985,Ján,Šefčík,7,7,0,1,1,1,17,75,Bronze medal
+1970,Štefan,Sakáloš,5,7,0,4,6,0,22,41,Bronze medal
+1971,Jan,Brychta,4,3,0,3,0,1,11,45,Bronze medal
+1972,Imrich,Vrťo,,,,,,,21,42,Bronze medal
+1970,Helena,Husová,1,7,0,4,4,5,21,44,Bronze medal
+1976,Jiří,Navrátil,5,0,2,5,0,7,19,55,Bronze medal
+1965,Bohuslav,Sivák,4,5,0,6,6,1,22,32,Bronze medal
+1984,Ján,Šefčík,7,7,0,6,0,0,20,76,Bronze medal
+1964,Jaroslav,Zemánek,7,5,6,0,4,6,28,29,Bronze medal
+1963,Jaroslav,Zemánek,5,5,5,0,1,7,23,26,Bronze medal
+1967,Tomáš,Mašek,5,7,0,3,1,8,24,40,Bronze medal
+1972,Jaromír,Šimša,,,,,,,20,45,Bronze medal
+1977,Martin,Čadek,5,6,0,6,2,0,19,65,Bronze medal
+1983,Jiří,Witzany,3,0,7,7,0,0,17,78,Bronze medal
+1978,Peter,Filakovszký,3,6,2,5,6,0,22,56,Bronze medal
+1987,Marcel,Polakovič,7,0,0,7,7,0,21,101,Bronze medal
+1981,Jiří,Sgall,0,7,7,7,5,6,32,79,Bronze medal
+1983,Xaver,Gubáš,3,2,4,0,7,0,16,83,Bronze medal
+1972,Miroslav,Kmošek,,,,,,,19,48,Bronze medal
+1986,Petr,Šleich,2,0,0,3,6,7,18,94,Bronze medal
+1974,Pavel,Kindlmann,5,6,3,6,2,1,23,63,Bronze medal
+1990,Martin,Dindoš,0,7,2,2,3,2,16,139,Bronze medal
+1970,Rudolf,Švarc,5,7,0,6,2,0,20,51,Bronze medal
+1965,Miroslav,Řezníček,4,1,8,6,1,0,20,37,Bronze medal
+1979,Miroslav,Chlebík,6,0,6,1,2,5,20,77,Bronze medal
+1962,Josef,Daneš,6,6,8,4,0,0,30,27,Bronze medal
+1966,Peter,Mederly,6,7,3,5,3,8,32,35,Bronze medal
+1982,Miroslav,Engliš,7,0,7,0,7,0,21,59,Bronze medal
+1973,Jaromír,Šimša,0,0,8,4,6,0,18,62,Bronze medal
+1976,Peter,Takáč,0,6,1,6,0,4,17,69,Bronze medal
+1966,Petr,Kůrka,0,7,4,5,7,8,31,39,Bronze medal
+1962,Karel,Veselý,2,6,7,5,6,2,29,31,Bronze medal
+1959,Karel,Šmuk,,,,,,,29,16,Honourable mention
+1959,Jiří,Moudrý,,,,,,,28,17,Honourable mention
+1959,Jiří,Votava,,,,,,,28,17,Honourable mention
+1960,Ladislav,Baran,,,,,,,32,13,Honourable mention
+1960,Pavel,Nosek,,,,,,,32,13,Honourable mention
+1959,Zdislav,Kovářík,,,,,,,25,20,Honourable mention
+1961,?,?,,,,,,,25,21,Honourable mention
+1961,?,?,,,,,,,24,22,Honourable mention
+1991,Viliam,Búr,0,3,4,0,7,3,17,162,Honourable mention
+1988,Ondrej,Šuch,4,0,7,1,0,0,12,140,Honourable mention
+1961,?,?,,,,,,,21,28,Honourable mention
+1969,Miloš,Zahradník,0,5,4,4,6,3,22,46,
+1971,Jan,Franců,3,1,0,5,0,0,9,54,
+1959,?,?,,,,,,,21,25,
+1978,Zdeněk,Kalousek,6,0,4,5,6,0,21,64,
+1992,Daniel,Štefankovič,5,4,0,0,0,4,13,156,
+1977,Jan,Kratochvíl,6,1,6,1,1,1,16,78,
+1971,Štefan,Sakáloš,2,0,0,6,0,0,8,59,
+1971,Anton,Černý,3,0,0,4,1,0,8,59,
+1972,Pavel,Ferst,,,,,,,18,55,
+1974,Jozef,Širáň,5,6,1,6,4,0,22,72,
+1969,Bohuslav,Sivák,5,7,7,0,0,1,20,58,
+1969,Rudolf,Švarc,5,5,4,2,0,4,20,58,
+1970,Anton,Černý,5,7,0,6,0,0,18,59,
+1970,Miroslav,Hradil,0,7,0,5,6,0,18,59,
+1975,Josef,Voldřich,6,7,1,2,2,2,20,73,
+1975,Ján,Slodička,6,7,0,0,6,1,20,73,
+1965,Pavel,Novotný,4,1,0,6,3,3,17,44,
+1977,Josef,Tkadlec,6,6,0,2,0,1,15,85,
+1971,Miroslav,Kmošek,2,0,0,5,0,0,7,64,
+1963,?,?,3,7,1,0,5,4,20,36,
+1965,Jura,Charvát,4,4,1,3,2,2,16,45,
+1979,Ladislav,Kubini,0,0,6,6,4,1,17,93,
+1985,Petr,Hájek,0,0,0,0,6,5,11,118,
+1960,?,?,,,,,,,24,23,
+1978,Mirko,Navara,2,5,1,5,6,1,20,78,
+1966,Jiří,Šmerk,6,7,2,4,2,8,29,43,
+1976,Jiří,Kolafa,0,1,3,3,0,7,14,83,
+1983,Marián,Neamţu,1,2,0,7,0,0,10,111,
+1971,Karel,Horák,4,0,0,2,0,0,6,69,
+1973,Imrich,Vrťo,2,0,8,4,0,0,14,76,
+1979,Jaroslav,Hančl,1,0,0,6,7,2,16,101,
+1978,Ilja,Turek,6,4,0,5,3,1,19,81,
+1975,Martin,Baumann,6,0,7,4,0,1,18,83,
+1975,Jan,Malý,6,7,0,3,0,2,18,83,
+1988,Petr,Hliněný,6,0,1,2,1,0,10,166,
+1974,Josef,Voldřich,5,6,0,6,0,1,18,88,
+1974,Jan,Trlifaj,5,6,0,6,0,1,18,88,
+1974,Jiří,Navrátil,5,6,0,2,5,0,18,88,
+1960,?,?,,,,,,,22,25,
+1962,Pavol,Voda,5,5,8,5,0,0,23,36,
+1962,Jan,Novotný,6,4,7,2,4,0,23,36,
+1984,Pavel,Krtouš,0,1,0,6,3,1,11,123,
+1967,Petr,Kůrka,3,0,0,5,0,8,16,65,
+1961,?,?,,,,,,,16,32,
+1972,Jan,Frynta,,,,,,,11,71,
+1973,Petr,Slačálek,2,0,4,5,1,0,12,84,
+1965,Milan,Štědrý,4,0,0,1,7,0,12,54,
+1975,Jan,Kratochvíl,6,7,1,0,0,2,16,92,
+1969,Štefan,Sakáloš,0,7,6,1,0,0,14,77,
+1959,?,?,,,,,,,12,36,
+1966,Pavel,Vejvoda,6,1,3,5,7,5,27,50,
+1961,?,?,,,,,,,15,34,
+1967,Martin,Macháček,1,4,0,5,1,2,13,70,
+1974,Lubomír,Balanda,5,4,0,6,1,0,16,99,
+1972,Karel,Horák,,,,,,,10,76,
+1973,Karel,Horák,0,0,6,4,1,0,11,89,
+1971,Helena,Husová,2,1,0,0,1,0,4,82,
+1970,Belo,Zorkovský,5,3,0,5,0,0,13,80,
+1969,Pavol,Černek,2,4,2,3,2,0,13,80,
+1965,Jan,Brodský,0,0,4,4,2,1,11,58,
+1984,Adam,Obdržálek,3,1,0,4,1,0,9,139,
+1979,Otto,Ritter,0,2,0,6,3,1,12,123,
+1985,Radek,Adamec,0,7,0,0,0,0,7,156,
+1975,Vlastimil,Klíma,2,0,7,3,0,1,13,101,
+1963,?,?,4,5,0,3,0,3,15,49,
+1963,?,?,4,3,0,1,0,7,15,49,
+1963,?,?,2,3,2,2,1,5,15,49,
+1959,?,?,,,,,,,9,40,
+1967,Jan,Kastl,1,7,0,0,1,2,11,76,
+1974,Michael,Valášek,5,1,1,6,0,1,14,108,
+1962,Marián,Mešina,1,4,6,4,5,0,20,44,
+1964,?,?,7,0,5,0,1,6,19,57,
+1964,?,?,4,0,6,0,2,6,18,58,
+1976,Pavol,Quittner,1,0,1,6,0,0,8,113,
+1966,Jiří,Rott,6,0,4,4,2,6,22,59,
+1962,Svatopluk,Fučík,6,5,3,1,4,0,19,46,
+1968,Michal,Kaukič,4,7,4,0,0,1,16,79,
+1968,Martin,Bukovčan,3,4,1,0,0,8,16,79,
+1963,?,?,2,5,0,1,0,6,14,53,
+1963,?,?,2,4,0,2,0,6,14,53,
+1976,Vladimír,Technovský,5,1,1,0,0,0,7,115,
+1961,?,?,,,,,,,13,40,
+1972,Petr,Slačálek,,,,,,,5,89,
+1967,Erich,Wiszt,1,2,0,5,1,0,9,83,
+1970,Pavel,Pudlák,0,3,0,1,5,1,10,94,
+1966,Miroslav,Kosina,4,7,0,5,0,4,20,61,
+1971,Imrich,Vrťo,1,0,0,0,1,0,2,100,
+1966,Petr,Němec,6,0,1,4,1,4,16,63,
+1976,Jan,Bázler,1,0,0,3,0,1,5,124,
+1961,?,?,,,,,,,12,43,
+1964,?,?,6,0,0,0,2,6,14,66,
+1977,Peter,Takáč,3,0,0,0,0,0,3,145,
+1964,?,?,5,1,5,0,2,0,13,68,

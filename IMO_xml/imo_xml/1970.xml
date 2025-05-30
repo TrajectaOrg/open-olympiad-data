@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yearIR year="1970" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://imo.dmfa.si/schemas/YearIndividualResults.xsd">
+<contestant id="10186">
+<code>GDR</code><name>Wolfgang</name><surname>Burmeister</surname><problem1>5</problem1><problem2>7</problem2><problem3>8</problem3><problem4>6</problem4><problem5>6</problem5><problem6>8</problem6><total>40</total><rank>1</rank><award>Gold medal</award></contestant><contestant id="10187">
+<code>HUN</code><name>Imre</name><surname>Ruzsa</surname><problem1>5</problem1><problem2>7</problem2><problem3>8</problem3><problem4>6</problem4><problem5>6</problem5><problem6>8</problem6><total>40</total><rank>1</rank><award>Gold medal</award></contestant><contestant id="10191">
+<code>USS</code><name>Andrei</name><surname>Hodulev</surname><problem1>5</problem1><problem2>7</problem2><problem3>8</problem3><problem4>6</problem4><problem5>6</problem5><problem6>8</problem6><total>40</total><rank>1</rank><award>Gold medal</award></contestant><contestant id="10188">
+<code>HUN</code><name>Ervin</name><surname>Bajmóczy</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>39</total><rank>4</rank><award>Gold medal</award></contestant><contestant id="10192">
+<code>USS</code><name>Arkadiy</name><surname>Klimov</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>39</total><rank>4</rank><award>Gold medal</award></contestant><contestant id="10185">
+<code>UNK</code><name>Bernard</name><surname>Silverman</surname><problem1>5</problem1><problem2>7</problem2><problem3>8</problem3><problem4>5</problem4><problem5>6</problem5><problem6>8</problem6><total>39</total><rank>4</rank><award>Gold medal</award></contestant><contestant id="10189">
+<code>HUN</code><name>István</name><surname>Gönczi</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>37</total><rank>7</rank><award>Gold medal</award></contestant><contestant id="10193">
+<code>USS</code><name>Aleksei</name><surname>Aleksandrov</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>35</total><rank>8</rank><award>Silver medal</award></contestant><contestant id="0">
+<code>ROU</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>34</total><rank>9</rank><award></award>
+</contestant><contestant id="10203">
+<code>YUG</code><name>Vladimir</name><surname>Janković</surname><problem1>5</problem1><problem2>7</problem2><problem3>8</problem3><problem4>6</problem4><problem5>6</problem5><problem6>2</problem6><total>34</total><rank>9</rank><award>Silver medal</award></contestant><contestant id="12714">
+<code>HUN</code><name>Zoltán</name><surname>Füredi</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>32</total><rank>11</rank><award>Silver medal</award></contestant><contestant id="16341">
+<code>FRA</code><name>Hervé</name><surname>Pépin</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>31</total><rank>12</rank><award>Silver medal</award></contestant><contestant id="0">
+<code>GDR</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>31</total><rank>12</rank><award></award>
+</contestant><contestant id="0">
+<code>ROU</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>31</total><rank>12</rank><award></award>
+</contestant><contestant id="10204">
+<code>YUG</code><name>Lazar</name><surname>Milin</surname><problem1>5</problem1><problem2>6</problem2><problem3>0</problem3><problem4>6</problem4><problem5>6</problem5><problem6>8</problem6><total>31</total><rank>12</rank><award>Silver medal</award></contestant><contestant id="10205">
+<code>YUG</code><name>Branislav</name><surname>Sazdović</surname><problem1>5</problem1><problem2>6</problem2><problem3>0</problem3><problem4>6</problem4><problem5>6</problem5><problem6>8</problem6><total>31</total><rank>12</rank><award>Silver medal</award></contestant><contestant id="0">
+<code>GDR</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>30</total><rank>17</rank><award></award>
+</contestant><contestant id="0">
+<code>ROU</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>30</total><rank>17</rank><award></award>
+</contestant><contestant id="0">
+<code>GDR</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>28</total><rank>19</rank><award></award>
+</contestant><contestant id="10200">
+<code>YUG</code><name>Ninoslav</name><surname>Ćirić</surname><problem1>5</problem1><problem2>7</problem2><problem3>4</problem3><problem4>5</problem4><problem5>6</problem5><problem6>1</problem6><total>28</total><rank>19</rank><award>Bronze medal</award></contestant><contestant id="10201">
+<code>YUG</code><name>Damir</name><surname>Henč</surname><problem1>1</problem1><problem2>6</problem2><problem3>2</problem3><problem4>6</problem4><problem5>6</problem5><problem6>7</problem6><total>28</total><rank>19</rank><award>Bronze medal</award></contestant><contestant id="0">
+<code>GDR</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>27</total><rank>22</rank><award></award>
+</contestant><contestant id="0">
+<code>GDR</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>27</total><rank>22</rank><award></award>
+</contestant><contestant id="10194">
+<code>USS</code><name>Sergei</name><surname>Semenkov</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>27</total><rank>22</rank><award>Bronze medal</award></contestant><contestant id="10202">
+<code>YUG</code><name>Mirko</name><surname>Janc</surname><problem1>5</problem1><problem2>7</problem2><problem3>0</problem3><problem4>6</problem4><problem5>2</problem5><problem6>7</problem6><total>27</total><rank>22</rank><award>Bronze medal</award></contestant><contestant id="16349">
+<code>SWE</code><name>Sten</name><surname>Salomonson</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>26</total><rank>26</rank><award>Bronze medal</award></contestant><contestant id="12717">
+<code>HUN</code><name>László</name><surname>Lempert</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>25</total><rank>27</rank><award>Bronze medal</award></contestant><contestant id="0">
+<code>ROU</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>25</total><rank>27</rank><award></award>
+</contestant><contestant id="0">
+<code>ROU</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>25</total><rank>27</rank><award></award>
+</contestant><contestant id="16325">
+<code>BGR</code><name>Milen</name><surname>Dimchev</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>24</total><rank>30</rank><award>Bronze medal</award></contestant><contestant id="16326">
+<code>BGR</code><name>Stepan</name><surname>Terzijan</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>24</total><rank>30</rank><award>Bronze medal</award></contestant><contestant id="16343">
+<code>FRA</code><name>André</name><surname>Cabannes</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>24</total><rank>30</rank><award>Bronze medal</award></contestant><contestant id="16342">
+<code>FRA</code><name>Pierre-Louis</name><surname>Curien</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>24</total><rank>30</rank><award>Bronze medal</award></contestant><contestant id="12716">
+<code>HUN</code><name>László</name><surname>Kóczy</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>24</total><rank>30</rank><award>Bronze medal</award></contestant><contestant id="10195">
+<code>USS</code><name>Velo</name><surname>Altlies</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>24</total><rank>30</rank><award>Bronze medal</award></contestant><contestant id="10196">
+<code>USS</code><name>Aleksander</name><surname>Korlyukov</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>24</total><rank>30</rank><award>Bronze medal</award></contestant><contestant id="16333">
+<code>CZS</code><name>Jiří</name><surname>Tůma</surname><problem1>5</problem1><problem2>7</problem2><problem3>0</problem3><problem4>5</problem4><problem5>6</problem5><problem6>0</problem6><total>23</total><rank>37</rank><award>Bronze medal</award></contestant><contestant id="16372">
+<code>MNG</code><name>?</name><surname>?</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>23</total><rank>37</rank><award>Bronze medal</award></contestant><contestant id="0">
+<code>ROU</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>23</total><rank>37</rank><award></award>
+</contestant><contestant id="11038">
+<code>UNK</code><name>John</name><surname>Proctor</surname><problem1>5</problem1><problem2>7</problem2><problem3>0</problem3><problem4>5</problem4><problem5>6</problem5><problem6>0</problem6><total>23</total><rank>37</rank><award>Bronze medal</award></contestant><contestant id="16334">
+<code>CZS</code><name>Štefan</name><surname>Sakáloš</surname><problem1>5</problem1><problem2>7</problem2><problem3>0</problem3><problem4>4</problem4><problem5>6</problem5><problem6>0</problem6><total>22</total><rank>41</rank><award>Bronze medal</award></contestant><contestant id="0">
+<code>GDR</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>22</total><rank>41</rank><award></award>
+</contestant><contestant id="0">
+<code>ROU</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>22</total><rank>41</rank><award></award>
+</contestant><contestant id="16327">
+<code>BGR</code><name>Ilija</name><surname>Kalderov</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>21</total><rank>44</rank><award>Bronze medal</award></contestant><contestant id="16335">
+<code>CZS</code><name>Helena</name><surname>Husová</surname><problem1>1</problem1><problem2>7</problem2><problem3>0</problem3><problem4>4</problem4><problem5>4</problem5><problem6>5</problem6><total>21</total><rank>44</rank><award>Bronze medal</award></contestant><contestant id="10190">
+<code>NLD</code><name>Piet</name><surname>Eygenraam</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>21</total><rank>44</rank><award>Bronze medal</award></contestant><contestant id="16350">
+<code>SWE</code><name>Christian</name><surname>Gottlieb</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>21</total><rank>44</rank><award>Bronze medal</award></contestant><contestant id="0">
+<code>UNK</code><name></name><surname></surname><problem1>5</problem1><problem2>4</problem2><problem3>0</problem3><problem4>6</problem4><problem5>6</problem5><problem6>0</problem6><total>21</total><rank>44</rank><award></award>
+</contestant><contestant id="0">
+<code>UNK</code><name></name><surname></surname><problem1>5</problem1><problem2>7</problem2><problem3>0</problem3><problem4>6</problem4><problem5>1</problem5><problem6>2</problem6><total>21</total><rank>44</rank><award></award>
+</contestant><contestant id="0">
+<code>UNK</code><name></name><surname></surname><problem1>1</problem1><problem2>7</problem2><problem3>0</problem3><problem4>5</problem4><problem5>0</problem5><problem6>8</problem6><total>21</total><rank>44</rank><award></award>
+</contestant><contestant id="16357">
+<code>AUT</code><name>Johann</name><surname>Hackl</surname><problem1>5</problem1><problem2>6</problem2><problem3>0</problem3><problem4>6</problem4><problem5>3</problem5><problem6>0</problem6><total>20</total><rank>51</rank><award>Bronze medal</award></contestant><contestant id="16336">
+<code>CZS</code><name>Rudolf</name><surname>Švarc</surname><problem1>5</problem1><problem2>7</problem2><problem3>0</problem3><problem4>6</problem4><problem5>2</problem5><problem6>0</problem6><total>20</total><rank>51</rank><award>Bronze medal</award></contestant><contestant id="12715">
+<code>HUN</code><name>Péter</name><surname>Borzsák</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>20</total><rank>51</rank><award>Bronze medal</award></contestant><contestant id="0">
+<code>UNK</code><name></name><surname></surname><problem1>5</problem1><problem2>7</problem2><problem3>0</problem3><problem4>2</problem4><problem5>6</problem5><problem6>0</problem6><total>20</total><rank>51</rank><award></award>
+</contestant><contestant id="0">
+<code>FRA</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>19</total><rank>55</rank><award></award>
+</contestant><contestant id="0">
+<code>FRA</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>19</total><rank>55</rank><award></award>
+</contestant><contestant id="15943">
+<code>POL</code><name>Marek</name><surname>Zakrzewski</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>19</total><rank>55</rank><award>Bronze medal</award></contestant><contestant id="0">
+<code>UNK</code><name></name><surname></surname><problem1>0</problem1><problem2>7</problem2><problem3>6</problem3><problem4>4</problem4><problem5>1</problem5><problem6>1</problem6><total>19</total><rank>55</rank><award></award>
+</contestant><contestant id="0">
+<code>BGR</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>18</total><rank>59</rank><award></award>
+</contestant><contestant id="0">
+<code>BGR</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>18</total><rank>59</rank><award></award>
+</contestant><contestant id="0">
+<code>BGR</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>18</total><rank>59</rank><award></award>
+</contestant><contestant id="16338">
+<code>CZS</code><name>Anton</name><surname>Černý</surname><problem1>5</problem1><problem2>7</problem2><problem3>0</problem3><problem4>6</problem4><problem5>0</problem5><problem6>0</problem6><total>18</total><rank>59</rank><award></award></contestant><contestant id="16337">
+<code>CZS</code><name>Miroslav</name><surname>Hradil</surname><problem1>0</problem1><problem2>7</problem2><problem3>0</problem3><problem4>5</problem4><problem5>6</problem5><problem6>0</problem6><total>18</total><rank>59</rank><award></award></contestant><contestant id="16324">
+<code>ROU</code><name>?</name><surname>?</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>18</total><rank>59</rank><award></award></contestant><contestant id="0">
+<code>SWE</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>18</total><rank>59</rank><award></award>
+</contestant><contestant id="16358">
+<code>AUT</code><name>Wolfgang</name><surname>Matej</surname><problem1>1</problem1><problem2>7</problem2><problem3>0</problem3><problem4>6</problem4><problem5>3</problem5><problem6>0</problem6><total>17</total><rank>66</rank><award></award></contestant><contestant id="0">
+<code>USS</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>17</total><rank>66</rank><award></award>
+</contestant><contestant id="16359">
+<code>AUT</code><name>Angelika</name><surname>Rindler</surname><problem1>5</problem1><problem2>3</problem2><problem3>0</problem3><problem4>5</problem4><problem5>3</problem5><problem6>0</problem6><total>16</total><rank>68</rank><award></award></contestant><contestant id="12807">
+<code>GDR</code><name>Ursula</name><surname>Tyl</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>16</total><rank>68</rank><award></award></contestant><contestant id="12718">
+<code>HUN</code><name>Ágnes</name><surname>Szendrei</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>16</total><rank>68</rank><award></award></contestant><contestant id="0">
+<code>NLD</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>16</total><rank>68</rank><award></award>
+</contestant><contestant id="0">
+<code>UNK</code><name></name><surname></surname><problem1>5</problem1><problem2>6</problem2><problem3>1</problem3><problem4>4</problem4><problem5>0</problem5><problem6>0</problem6><total>16</total><rank>68</rank><award></award>
+</contestant><contestant id="10199">
+<code>YUG</code><name>Milan</name><surname>Božić</surname><problem1>1</problem1><problem2>5</problem2><problem3>0</problem3><problem4>5</problem4><problem5>3</problem5><problem6>2</problem6><total>16</total><rank>68</rank><award></award></contestant><contestant id="0">
+<code>NLD</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>15</total><rank>74</rank><award></award>
+</contestant><contestant id="0">
+<code>POL</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>15</total><rank>74</rank><award></award>
+</contestant><contestant id="0">
+<code>SWE</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>15</total><rank>74</rank><award></award>
+</contestant><contestant id="0">
+<code>USS</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>15</total><rank>74</rank><award></award>
+</contestant><contestant id="0">
+<code>POL</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>14</total><rank>78</rank><award></award>
+</contestant><contestant id="10206">
+<code>YUG</code><name>Josip</name><surname>Tumbas</surname><problem1>5</problem1><problem2>4</problem2><problem3>0</problem3><problem4>5</problem4><problem5>0</problem5><problem6>0</problem6><total>14</total><rank>78</rank><award></award></contestant><contestant id="16360">
+<code>AUT</code><name>Franz</name><surname>Hofbauer</surname><problem1>0</problem1><problem2>7</problem2><problem3>0</problem3><problem4>6</problem4><problem5>0</problem5><problem6>0</problem6><total>13</total><rank>80</rank><award></award></contestant><contestant id="16361">
+<code>AUT</code><name>Gerald</name><surname>Leitner</surname><problem1>0</problem1><problem2>7</problem2><problem3>0</problem3><problem4>5</problem4><problem5>1</problem5><problem6>0</problem6><total>13</total><rank>80</rank><award></award></contestant><contestant id="16339">
+<code>CZS</code><name>Belo</name><surname>Zorkovský</surname><problem1>5</problem1><problem2>3</problem2><problem3>0</problem3><problem4>5</problem4><problem5>0</problem5><problem6>0</problem6><total>13</total><rank>80</rank><award></award></contestant><contestant id="0">
+<code>POL</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>13</total><rank>80</rank><award></award>
+</contestant><contestant id="16362">
+<code>AUT</code><name>Erich</name><surname>Steinbauer</surname><problem1>5</problem1><problem2>4</problem2><problem3>0</problem3><problem4>3</problem4><problem5>0</problem5><problem6>0</problem6><total>12</total><rank>84</rank><award></award></contestant><contestant id="0">
+<code>FRA</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>12</total><rank>84</rank><award></award>
+</contestant><contestant id="0">
+<code>NLD</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>12</total><rank>84</rank><award></award>
+</contestant><contestant id="0">
+<code>POL</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>12</total><rank>84</rank><award></award>
+</contestant><contestant id="0">
+<code>POL</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>12</total><rank>84</rank><award></award>
+</contestant><contestant id="0">
+<code>POL</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>12</total><rank>84</rank><award></award>
+</contestant><contestant id="0">
+<code>SWE</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>12</total><rank>84</rank><award></award>
+</contestant><contestant id="0">
+<code>BGR</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>11</total><rank>91</rank><award></award>
+</contestant><contestant id="0">
+<code>BGR</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>11</total><rank>91</rank><award></award>
+</contestant><contestant id="16373">
+<code>MNG</code><name>?</name><surname>?</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>11</total><rank>91</rank><award></award></contestant><contestant id="16363">
+<code>AUT</code><name>Herbert</name><surname>Tobisch</surname><problem1>1</problem1><problem2>5</problem2><problem3>0</problem3><problem4>4</problem4><problem5>0</problem5><problem6>0</problem6><total>10</total><rank>94</rank><award></award></contestant><contestant id="16340">
+<code>CZS</code><name>Pavel</name><surname>Pudlák</surname><problem1>0</problem1><problem2>3</problem2><problem3>0</problem3><problem4>1</problem4><problem5>5</problem5><problem6>1</problem6><total>10</total><rank>94</rank><award></award></contestant><contestant id="16374">
+<code>MNG</code><name>?</name><surname>?</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>10</total><rank>94</rank><award></award></contestant><contestant id="0">
+<code>NLD</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>10</total><rank>94</rank><award></award>
+</contestant><contestant id="0">
+<code>SWE</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>10</total><rank>94</rank><award></award>
+</contestant><contestant id="0">
+<code>FRA</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>9</total><rank>99</rank><award></award>
+</contestant><contestant id="16375">
+<code>MNG</code><name>?</name><surname>?</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>8</total><rank>100</rank><award></award></contestant><contestant id="0">
+<code>POL</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>8</total><rank>100</rank><award></award>
+</contestant><contestant id="16376">
+<code>MNG</code><name>?</name><surname>?</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>7</total><rank>102</rank><award></award></contestant><contestant id="16377">
+<code>MNG</code><name>?</name><surname>?</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>7</total><rank>102</rank><award></award></contestant><contestant id="16378">
+<code>MNG</code><name>?</name><surname>?</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>6</total><rank>104</rank><award></award></contestant><contestant id="16379">
+<code>MNG</code><name>?</name><surname>?</surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>6</total><rank>104</rank><award></award></contestant><contestant id="0">
+<code>NLD</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>5</total><rank>106</rank><award></award>
+</contestant><contestant id="0">
+<code>NLD</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>4</total><rank>107</rank><award></award>
+</contestant><contestant id="0">
+<code>NLD</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>4</total><rank>107</rank><award></award>
+</contestant><contestant id="0">
+<code>SWE</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>4</total><rank>107</rank><award></award>
+</contestant><contestant id="0">
+<code>SWE</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>4</total><rank>107</rank><award></award>
+</contestant><contestant id="16364">
+<code>AUT</code><name>Karl</name><surname>Czakler</surname><problem1>1</problem1><problem2>0</problem2><problem3>0</problem3><problem4>2</problem4><problem5>0</problem5><problem6>0</problem6><total>3</total><rank>111</rank><award></award></contestant><contestant id="0">
+<code>FRA</code><name></name><surname></surname><problem1></problem1><problem2></problem2><problem3></problem3><problem4></problem4><problem5></problem5><problem6></problem6><total>3</total><rank>111</rank><award></award>
+</contestant></yearIR>
