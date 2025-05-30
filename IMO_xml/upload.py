@@ -7,11 +7,11 @@ import os
 # ——————————————————————————————————————————————————————————————————————
 # DB connection parameters (you can also pull from env vars)
 DB_PARAMS = {
-    'dbname':   os.environ.get('DB_NAME',   'trajecta'),
-    'user':     os.environ.get('DB_USER',   'postgres'),
-    'password': os.environ.get('DB_PASS',   'Astrosander12!'),
-    'host':     os.environ.get('DB_HOST',   'imagesharing.c1ig8myqybl5.us-east-2.rds.amazonaws.com'),
-    'port':     os.environ.get('DB_PORT',   '5432'),
+    'dbname':   os.environ.get('DB_NAME'),
+    'user':     os.environ.get('DB_USER'),
+    'password': os.environ.get('DB_PASS'),
+    'host':     os.environ.get('DB_HOST'),
+    'port':     os.environ.get('DB_PORT'),
 }
 
 
