@@ -6,12 +6,27 @@ import os
 # ——————————————————————————————————————————————————————————————————————
 # DB connection parameters (same as IMO upload)
 DB_PARAMS = {
-    'dbname':   os.environ.get('DB_NAME'),
-    'user':     os.environ.get('DB_USER'),
-    'password': os.environ.get('DB_PASS'),
-    'host':     os.environ.get('DB_HOST'),
-    'port':     os.environ.get('DB_PORT'),
+    'dbname':   os.environ.get('DB_NAME',   'trajecta'),
+    'user':     os.environ.get('DB_USER',   'postgres'),
+    'password': os.environ.get('DB_PASS',   'Astrosander12!'),
+    'host':     os.environ.get('DB_HOST',   'imagesharing.c1ig8myqybl5.us-east-2.rds.amazonaws.com'),
+    'port':     os.environ.get('DB_PORT',   '5432'),
 }
+
+def process_medal(text):
+    """
+    Process medal text to standardize values.
+    """
+    if text == 'G':
+        return 'Gold Medal'
+    elif text == 'S':
+        return 'Silver Medal'
+    elif text == 'B':
+        return 'Bronze Medal'
+    elif text == 'H':
+        return 'Honorable Mention'
+    else:
+        return None
 
 
 def safe_float(text):
@@ -126,7 +141,7 @@ def upload_ipho_data(csv_file_path='estudiantes.csv'):
                     'name': name,
                     'surname': surname,
                     'country': country,
-                    'medal': medal,
+                    'medal': process_medal(medal),
                     'ipho_theory': ipho_theory,
                     'ipho_experimental': ipho_experimental,
                     'ipho_overall': ipho_overall
@@ -159,4 +174,4 @@ def upload_ipho_data(csv_file_path='estudiantes.csv'):
 
 
 if __name__ == "__main__":
-    upload_ipho_data('estudiantes.csv')
+    upload_ipho_data('IPhO/estudiantes.csv')

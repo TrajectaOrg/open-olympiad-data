@@ -3,9 +3,10 @@ import xml.etree.ElementTree as ET
 import psycopg2
 from psycopg2.extras import execute_batch
 import os
+from dotenv import load_dotenv
 
-# ——————————————————————————————————————————————————————————————————————
-# DB connection parameters (you can also pull from env vars)
+load_dotenv(dotenv_path=Path(__file__).resolve().parent.parent / '.env')
+
 DB_PARAMS = {
     'dbname':   os.environ.get('DB_NAME'),
     'user':     os.environ.get('DB_USER'),
@@ -13,7 +14,6 @@ DB_PARAMS = {
     'host':     os.environ.get('DB_HOST'),
     'port':     os.environ.get('DB_PORT'),
 }
-
 
 def safe_int(text):
     """
@@ -44,17 +44,6 @@ def parse_and_insert(xml_folder):
             %(p4)s, %(p5)s, %(p6)s,
             %(total)s, %(name)s, %(surname)s, %(medal)s
         )
-        ON CONFLICT (imo_id, imo_year) DO UPDATE SET
-            olympiad      = EXCLUDED.olympiad,
-            country   = EXCLUDED.country,
-            imo_problem1  = EXCLUDED.imo_problem1,
-            imo_problem2  = EXCLUDED.imo_problem2,
-            imo_problem3  = EXCLUDED.imo_problem3,
-            imo_problem4  = EXCLUDED.imo_problem4,
-            imo_problem5  = EXCLUDED.imo_problem5,
-            imo_problem6  = EXCLUDED.imo_problem6,
-            imo_total     = EXCLUDED.imo_total,
-            medal     = EXCLUDED.medal;
     """
 
     with psycopg2.connect(**DB_PARAMS) as conn:
@@ -68,7 +57,7 @@ def parse_and_insert(xml_folder):
         tree = ET.parse(xml_path)
         root = tree.getroot()
         year = safe_int(root.attrib.get('year'))
-        
+
         # if year != 2000:
         #     continue
 
@@ -100,5 +89,5 @@ def parse_and_insert(xml_folder):
 
 
 if __name__ == "__main__":
-    parse_and_insert('imo_xml')
+    parse_and_insert('IMO_xml/imo_xml')
     print("✅ IMO data imported and upserted successfully.")
